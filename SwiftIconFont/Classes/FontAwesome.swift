@@ -8,7 +8,7 @@
 
 import UIKit
 
-public let fontAwesomeIconArr: [String: String] = [
+public let fontAwesomeIconArr = [
     "adjust":"\u{f042}",
     "adn":"\u{f170}",
     "align-center":"\u{f037}",

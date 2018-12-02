@@ -8,7 +8,7 @@
 
 import UIKit
 
-let entypoIconsArr: [String:String] = [
+public let entypoIconsArr: [String:String] = [
     "baidu": "\u{e749}",
     "houzz": "\u{e74a}",
     "windowsStore": "\u{e74b}",
