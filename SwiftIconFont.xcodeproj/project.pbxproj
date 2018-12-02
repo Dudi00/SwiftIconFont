@@ -31,6 +31,7 @@
 		DA8D9D561D345A4900F5E693 /* SwiftIconTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA8D9D471D345A4900F5E693 /* SwiftIconTextField.swift */; };
 		DA8D9D571D345A4900F5E693 /* SwiftIconTextView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA8D9D481D345A4900F5E693 /* SwiftIconTextView.swift */; };
 		DA8D9D581D345A4900F5E693 /* ThemifyIcon.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA8D9D491D345A4900F5E693 /* ThemifyIcon.swift */; };
+		F54D50FD21B4739A00DA9572 /* entypo.ttf in Resources */ = {isa = PBXBuildFile; fileRef = BEDBB8CA1D92C72C00369E9E /* entypo.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -214,6 +215,7 @@
 				DA8D9D341D345A4500F5E693 /* Ionicons.ttf in Resources */,
 				DA8D9D351D345A4500F5E693 /* map-icons.ttf in Resources */,
 				DA8D9D391D345A4500F5E693 /* themify.ttf in Resources */,
+				F54D50FD21B4739A00DA9572 /* entypo.ttf in Resources */,
 				DA8D9D331D345A4500F5E693 /* FontAwesome.ttf in Resources */,
 				DA8D9D361D345A4500F5E693 /* MaterialIcons-Regular.ttf in Resources */,
 			);
